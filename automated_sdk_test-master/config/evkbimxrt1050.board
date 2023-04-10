@@ -1,0 +1,16 @@
+{
+  "name": "evkbimxrt1050",
+  "devicename": "1050",
+  "debugger": {
+    "type": "pyocd",
+    "usbid": "022700001296949b00000000000000000000000097969905",
+    "gdbport": "64737"
+    },
+  "ports": [
+    {
+      "type": "main",
+      "port": "COM5",
+      "baudrate": "115200"
+    }
+  ]
+}
