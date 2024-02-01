@@ -1,6 +1,0 @@
-packaging
-globster
-serial
-pexpect
-click
-python-redmine
